@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns
+
 
 
 def load_data(file_path):
@@ -101,3 +101,4 @@ plot_sales_trends(df)
 plot_top_products(df)
 plot_customer_segments(df)
 top_products, correlation = generate_insights(df)
+
