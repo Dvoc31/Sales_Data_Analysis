@@ -15,8 +15,7 @@ This project analyzes retail sales data using Python. It helps understand sales 
 **Technologies Used**
 - **Python** – Programming language for data analysis  
 - **Pandas** – Data manipulation and cleaning  
-- **Matplotlib** – Visualizing sales trends and product performance  
-- **Seaborn** – Optional for advanced visualizations  
+- **Matplotlib** – Visualizing sales trends and product performance    
 
 ---
 
