@@ -1,7 +1,7 @@
 # Sales_Data_Analysis
 This project analyzes retail sales data using Python. It helps understand sales trends over time, identifies top-selling products, and shows customer segments by gender or region. The project uses data cleaning, simple analysis, and visualizations like line charts, bar charts, and pie charts to generate insights for better business decisions.
 
-**Dataset**
+**Dataset: **
 The dataset `sales_250.csv` contains 250+ sales records with the following columns:  
 - `Date` – Transaction date  
 - `Product` – Product name  
@@ -21,8 +21,8 @@ The dataset `sales_250.csv` contains 250+ sales records with the following colum
 ---
 
 **Project Workflow**
-1. **Data Loading:** Read CSV file and load into a pandas DataFrame.  
-2. **Data Preprocessing:** Convert dates, handle missing values, and clean numeric/non-numeric columns.  
+1. **Data Loading:** Read CSV file and load it into a pandas DataFrame.  
+2. **Data Preprocessing:** Convert dates, handle missing values, and clean columns.  
 3. **Exploratory Data Analysis (EDA):** Check data types, summary statistics, and correlation matrices.  
 4. **Visualizations:**  
    - **Sales Trends:** Line plot showing revenue trends over months.  
